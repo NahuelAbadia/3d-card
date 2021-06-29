@@ -12,10 +12,16 @@ body{
     justify-content:center;
     perspective:1000px
 }
+h2{
+    position:relative;
+    bottom:400px;
+    left:450px;
+}
 .container{
+    margin: 3rem 0rem 0rem 0rem;
     width:50%;
     display:flex;
-    justify-content:center;
+    /* justify-content:center; */
     align-items:center;
 }
 .card{
